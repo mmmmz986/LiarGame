@@ -1,0 +1,7 @@
+<RCC>
+    <qresource lang="korean" prefix="/images">
+        <file>images/liargamewallpaper.png</file>
+        <file>images/roomwallpaper.png</file>
+        <file>images/gamewallpaper.png</file>
+    </qresource>
+</RCC>
