@@ -1,2 +1,0 @@
-set(__QT_DEPLOY_TARGET_LiarGameServer_FILE /home/aiot122/QT_6/LiarGameServer/build/Desktop_Qt_6_9_1-Debug/LiarGameServer)
-set(__QT_DEPLOY_TARGET_LiarGameServer_TYPE EXECUTABLE)

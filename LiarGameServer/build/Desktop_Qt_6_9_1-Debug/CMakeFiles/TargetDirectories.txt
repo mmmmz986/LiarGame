@@ -1,9 +1,0 @@
-/home/aiot122/QT_6/LiarGameServer/build/Desktop_Qt_6_9_1-Debug/CMakeFiles/LiarGameServer.dir
-/home/aiot122/QT_6/LiarGameServer/build/Desktop_Qt_6_9_1-Debug/CMakeFiles/edit_cache.dir
-/home/aiot122/QT_6/LiarGameServer/build/Desktop_Qt_6_9_1-Debug/CMakeFiles/rebuild_cache.dir
-/home/aiot122/QT_6/LiarGameServer/build/Desktop_Qt_6_9_1-Debug/CMakeFiles/list_install_components.dir
-/home/aiot122/QT_6/LiarGameServer/build/Desktop_Qt_6_9_1-Debug/CMakeFiles/install.dir
-/home/aiot122/QT_6/LiarGameServer/build/Desktop_Qt_6_9_1-Debug/CMakeFiles/install/local.dir
-/home/aiot122/QT_6/LiarGameServer/build/Desktop_Qt_6_9_1-Debug/CMakeFiles/install/strip.dir
-/home/aiot122/QT_6/LiarGameServer/build/Desktop_Qt_6_9_1-Debug/CMakeFiles/LiarGameServer_autogen_timestamp_deps.dir
-/home/aiot122/QT_6/LiarGameServer/build/Desktop_Qt_6_9_1-Debug/CMakeFiles/LiarGameServer_autogen.dir
